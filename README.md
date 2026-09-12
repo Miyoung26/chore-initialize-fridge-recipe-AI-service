@@ -56,8 +56,7 @@ OPENAI_MODEL=gpt-5-mini
 > API 키는 코드, README, 스크린샷, Git 기록에 절대로 입력하지 마세요. 노출됐다면 즉시 폐기하고 재발급하세요.
 
 ## 배포 URL
-- 제출 전 아래 주소를 실제 URL로 교체하세요.
-- `https://YOUR-PROJECT.vercel.app`
+- `https://fridge-chef-ai-eta.vercel.app`
 
 ## 테스트
 | 번호 | 시나리오 | 입력 | 기대 결과 |
